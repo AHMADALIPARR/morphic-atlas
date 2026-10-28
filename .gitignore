@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.DS_Store
+*.swp
+/tmp/
+# kept on purpose: atlas.html, build_atlas.rb, dev/, README.md, docs/img/, shots/
