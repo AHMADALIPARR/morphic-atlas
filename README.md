@@ -1,5 +1,7 @@
 # Morphic Atlas
 
+**[Open the live atlas](https://ahmadaliparr.github.io/morphic-atlas/)** — it runs right in your browser, no install.
+
 A 2D picture of the human body that you can pick apart with your mouse and your keyboard.
 Every organ, bone, muscle, vessel and nerve is a small live object. You can click it, drag it,
 open it up to see what it is made of, and change it while the atlas is running.
